@@ -11,12 +11,16 @@ Aufgrund einer Umstellung der RZ-Doku-Maschine auf Ubuntu, ist DokuCon überflü
 
 ~~DokuCon soll dies ändern!~~
 
-~~## Features~~
+~~Features~~
 
 ~~- Zugriff über jeden beliebigen Webbrowser~~
+
 ~~- Einstellungsmöglichkeiten (Zeitintervall etc.)~~
+
 ~~- Start/Stop-Buttons~~
+
 ~~- Logs~~
+
 ~~- Responsive (PC, Mobil etc.)~~
 
 ~~## Lizenz~~
