@@ -1,26 +1,25 @@
 
-# DokuCon
+# Das Arbeitspaket DokuCon wurde eingestellt
 
-Eine Webkonsole für die RZ-Doku-Maschine.
+Aufgrund einer Umstellung der RZ-Doku-Maschine auf Ubuntu, ist DokuCon überflüssig geworden.
 
-Aktuell muss ein Batch-Script eingesetzt werden, um auf die Git Repository zuzugreifen.
+~~Eine Webkonsole für die RZ-Doku-Maschine.~~
 
-Notfalls muss man sogar auf den Server via Remote zugegriffen werden.
+~~Aktuell muss ein Batch-Script eingesetzt werden, um auf die Git Repository zuzugreifen.~~
 
-DokuCon soll dies ändern!
+~~Notfalls muss man sogar auf den Server via Remote zugegriffen werden.~~
 
+~~DokuCon soll dies ändern!~~
 
-## Features
+~~## Features~~
 
-- Zugriff über jeden beliebigen Webbrowser
-- Einstellungsmöglichkeiten (Zeitintervall etc.)
-- Start/Stop-Buttons
-- Logs
-- Responsive (PC, Mobil etc.)
+~~- Zugriff über jeden beliebigen Webbrowser~~
+~~- Einstellungsmöglichkeiten (Zeitintervall etc.)~~
+~~- Start/Stop-Buttons~~
+~~- Logs~~
+~~- Responsive (PC, Mobil etc.)~~
 
+~~## Lizenz~~
 
-
-## Lizenz
-
-[MIT](https://choosealicense.com/licenses/mit/)
+~~[MIT](https://choosealicense.com/licenses/mit/)~~
 
